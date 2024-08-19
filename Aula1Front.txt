@@ -1,0 +1,19 @@
+*********************************************************
+Instrutor Caio B
+Front-END
+9 Aulas
+_____________________________________________________
+-Dontpad
+_____________________________________________________
+
+ctrl + k + c = Cria um comentário em HTML
+ctr + ; = CRIA COMENTÁRIO
+! + enter  = cria um template HTML
+_____________________________________________________
+
+________________________________
+	EXTENSOES VS CODE
+________________________________
+
+HTML LANGUAGE FEATURES = CRIA ATALHOS
+LIVE SERVER  = ATUALIZA AUTOMATICAMENTE
